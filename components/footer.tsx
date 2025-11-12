@@ -34,11 +34,6 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="/#reviews" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                  Anmeldelser
-                </a>
-              </li>
-              <li>
                 <a href="/#guide" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                   Guide
                 </a>
