@@ -12,7 +12,6 @@ export const metadata: Metadata = {
   title: "Danske Bedste Casinosider 2025 | danskebedstecasinosider.com",
   description:
     "Professionelle anmeldelser af de bedste danske online casinoer. Find licenserede casinoer med høje bonusser og sikker spil i Danmark.",
-  generator: "v0.app",
   metadataBase: new URL("https://danskebedstecasinosider.com"),
   openGraph: {
     title: "Danske Bedste Casinosider 2025",
